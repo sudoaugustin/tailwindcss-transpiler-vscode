@@ -1,3 +1,5 @@
+# ⚠️ This extension is deprecated. Try [Tailpile](https://marketplace.visualstudio.com/items?itemName=sudoaugustin.tailpile), more powerful & future proof.
+
 # Tailwind CSS Transpiler
 
 <img src="https://raw.githubusercontent.com/sudoaugustin/tailwindcss-transpiler/master/.github/preview.gif">
